@@ -653,9 +653,9 @@ footer span a:hover {
   }
 }
 
-=======
->>>>>>> d21ba4f147d5b6a315f9a36195e978d2a0d7ee7c
-@media (max-width: 690px) {
+=======>>>>>>>d21ba4f147d5b6a315f9a36195e978d2a0d7ee7c
+  @media
+  (max-width: 690px) {
   .max-width {
     padding: 0 23px;
   }
